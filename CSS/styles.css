@@ -15,7 +15,8 @@
 
 .nav {} */
 
-.logo {
+.logo,
+.logo2 {
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
@@ -24,6 +25,9 @@
   letter-spacing: 0.03em;
   color: #000000;
   text-decoration: none;
+}
+.logo2{
+  color: #ffffff;
 }
 
 .logo-blu {
