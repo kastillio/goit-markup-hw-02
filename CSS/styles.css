@@ -62,7 +62,7 @@
 }
 
 .link-mail-tel:hover,
-:focus {
+.link-mail-tel:focus {
   color: #2196f3;
 }
 
